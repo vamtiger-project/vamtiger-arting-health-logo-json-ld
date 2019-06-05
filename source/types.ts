@@ -13,4 +13,4 @@ export interface ILoadScript {
     data: IAnyObject;
 }
 
-export const url = 'https://unpkg.com/vamtiger-arting-health-logo-json-ld';
+export const url = 'https://unpkg.com/vamtiger-arting-health-logo-json-ld@latest';
