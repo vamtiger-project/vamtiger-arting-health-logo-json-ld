@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-arting-health-logo-json-ld",
-    "version": "0.0.1",
+    "version": "0.0.2-0",
     "description": "VAMTIGER Arting Health Logo JSON-LD",
     "main": "build",
     "scripts": {
