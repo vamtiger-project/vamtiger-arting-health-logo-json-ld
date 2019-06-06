@@ -1,5 +1,5 @@
 const jsonLd = {
-    '@context': 'http://schema.org/',
+    '@context': 'http://schema.org',
     '@type': 'Logo',
     name: 'Arting Health',
     description: 'Arting Health Logo',
