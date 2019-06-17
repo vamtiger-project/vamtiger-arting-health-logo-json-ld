@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const jsonLd = {
     '@context': 'http://schema.org',
     '@type': 'Brand',
@@ -8,7 +10,7 @@ const jsonLd = {
     image: 'https://vamtiger-project.github.io/vamtiger-arting-health-logo-json-ld/build/arting-health-for-impact-icon.html',
     url: 'https://artinghealth.infersgroup.com'
 };
-
-export default [
+exports.default = [
     jsonLd
 ];
+//# sourceMappingURL=json-ld.js.map
