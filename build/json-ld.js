@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const jsonLd = {
+var jsonLd = {
     '@context': 'http://schema.org',
     '@type': 'Brand',
     name: 'Arting Health',
